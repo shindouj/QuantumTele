@@ -1,0 +1,92 @@
+﻿{
+  "MenuEnableKey": "F6",
+  "ShouldTakeMoney": true,
+  "DistancePricing": true,
+  "GlobalPrice": 20,
+  "DistancePriceMultiplier": 0.007,
+  "MinimumDistanceBasedPrice": 5,
+  "MaximumDistanceBasedPrice": 1000,
+  "TeleportDestinations": [
+    {
+      "DestinationName": "Interior Store",
+      "DestinationLocation": {
+        "x": -3709.0,
+        "y": 53.6,
+        "z": 8648.3
+      },
+      "DestinationHotKeys": [
+        "LeftControl",
+        "T",
+        "I"
+      ],
+      "MapExtensionRequired": true
+    },
+    {
+      "DestinationName": "Race Track",
+      "DestinationLocation": {
+        "x": 439.0,
+        "y": 76.4,
+        "z": -233.0
+      }
+    },
+    {
+      "DestinationName": "Car Shop",
+      "DestinationLocation": {
+        "x": 115.6,
+        "y": 63.2,
+        "z": 635.5
+      }
+    },
+    {
+      "DestinationName": "Beach",
+      "DestinationLocation": {
+        "x": 709.1,
+        "y": 54.1,
+        "z": 44.9
+      }
+    },
+    {
+      "DestinationName": "Used Car Dealership",
+      "DestinationLocation": {
+        "x": 97.3,
+        "y": 63.3,
+        "z": 590.5
+      }
+    },
+    {
+      "DestinationName": "Docks",
+      "DestinationLocation": {
+        "x": 105.9,
+        "y": 53.6,
+        "z": 473.5
+      }
+    },
+    {
+      "DestinationName": "Performance Shop",
+      "DestinationLocation": {
+        "x": 3088.1,
+        "y": 58.1,
+        "z": 729.4
+      },
+      "MapExtensionRequired": true
+    },
+    {
+      "DestinationName": "Airfield",
+      "DestinationLocation": {
+        "x": 3300.7,
+        "y": 63.0,
+        "z": 3508.2
+      },
+      "MapExtensionRequired": true
+    },
+    {
+      "DestinationName": "Grocery Store",
+      "DestinationLocation": {
+        "x": 3103.7,
+        "y": 58.1,
+        "z": 876.8
+      },
+      "MapExtensionRequired": true
+    }
+  ]
+}
